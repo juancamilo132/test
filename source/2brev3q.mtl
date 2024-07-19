@@ -1,0 +1,140 @@
+# Blender MTL File: '2brev3q.blend'
+# Material Count: 12
+
+newmtl Cloth
+Ns 582.563392
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\DB4E3F5B.dds
+map_Kd textures\\Tex_0068.dds
+
+newmtl Hair1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\Tex_0079.dds
+map_Kd textures\\Tex_0078.dds
+map_d textures\\Tex_0078.dds
+
+newmtl Hair2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\Tex_0085.dds
+map_Kd textures\\Tex_0083.dds
+map_d textures\\Tex_0083.dds
+
+newmtl Material
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -s 2.500000 2.500000 1.000000 textures\\Tex_0077.dds
+map_d textures\\5a34fe00e395a1605f0033a4.png
+
+newmtl Material.001
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.005
+Ns 3.644628
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.500000 textures\\Tex_0064.dds
+
+newmtl Sword
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\Tex_0243.dds
+map_Kd textures\\Tex_0241.dds
+
+newmtl ball
+Ns 0.000000
+Ka 0.223485 0.223485 0.223485
+Kd 0.800000 0.800000 0.800000
+Ks 0.118182 0.118182 0.118182
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -s 2.000000 2.000000 2.000000 textures\\Tex_0598.dds
+
+newmtl feathers
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures\\Tex_0004.dds
+map_d textures\\Tex_0004.dds
+
+newmtl skin
+Ns 197.274819
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\Tex_0022.dds
+map_Kd Bskin_color.png
