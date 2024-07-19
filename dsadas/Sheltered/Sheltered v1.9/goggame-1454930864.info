@@ -1,0 +1,24 @@
+{
+    "buildId": "52434541530973745",
+    "clientId": "48819400964601267",
+    "gameId": "1454930864",
+    "language": "English",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Sheltered",
+    "playTasks": [
+        {
+            "category": "game",
+            "isPrimary": true,
+            "languages": [
+                "en-US"
+            ],
+            "name": "Sheltered",
+            "path": "Sheltered.exe",
+            "type": "FileTask"
+        }
+    ],
+    "rootGameId": "1454930864",
+    "version": 1
+}
